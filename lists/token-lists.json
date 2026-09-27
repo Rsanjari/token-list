@@ -16,5 +16,10 @@
   "https://tokens.coingecko.com/binance-smart-chain/all.json": {
     "name": "CoinGecko",
     "homepage": "https://www.coingecko.com"
+  },
+  "https://raw.githubusercontent.com/Rsanjari/agrt/main/tokenlist.json": {
+    "name": "AGRT Token List",
+    "homepage": "https://www.agpc.ir"
   }
 }
+
